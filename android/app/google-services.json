@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551307648935",
+    "project_id": "aeropuerto-ad30a",
+    "storage_bucket": "aeropuerto-ad30a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551307648935:android:4978786f79e107a4b5a082",
+        "android_client_info": {
+          "package_name": "com.aeropuerto.aeropuerto_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJMWG8G2fjRM88TYWhdKXK1oUOirfghIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
